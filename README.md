@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋\
+<p align="center">
 <img src="https://moe-counter.glitch.me/get/@:Uximy?theme=gelbooru-h" alt=":Uximy" />
+</p>
 <!--
 **Uximy/Uximy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
