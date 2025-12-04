@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=fffff4&size=35&center=true&vCenter=true&width=1000&lines=Welcome!,+My+name+is+Uximy;I%27m+24+years;I%27m+from+Kazakhstan;I+am+Full+Stack+Development;+:%29" alt=":Uximy" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=fffff4&size=35&center=true&vCenter=true&width=1000&lines=Welcome!,+My+name+is+Uximy;I%27m+25+years;I%27m+from+Kazakhstan;I+am+Full+Stack+Development;+:%29" alt=":Uximy" />
 </p>
 
 <p align="center">
